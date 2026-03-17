@@ -9,3 +9,4 @@ jobs:
       - name: Install dependencies
       - name: Run tests
         run: npm test
+
